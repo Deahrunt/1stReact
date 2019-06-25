@@ -1,0 +1,16 @@
+.blog {
+    color: white;
+}
+.img {
+    width: 23px;
+    height: 23px;
+}
+.jb {
+    background: url('./images/react.png') no-repeat;
+    background-size: contain;
+}
+.footer {
+    position: fixed;
+    bottom: 0;
+    left: 10%;
+}
